@@ -1,0 +1,7 @@
+<div class="gallery-group-main">
+{% galleryGroup '自定义名称' '仪表细节' '/img/边三轮/仪表细节/' /img/边三轮/仪表细节/10.JPG %}
+{% galleryGroup '自定义名称' '发动机细节' '/img/边三轮/发动机细节/' /img/边三轮/发动机细节/16.JPG %}
+{% galleryGroup '自定义名称' '右侧细节' '/img/边三轮/右侧细节/' /img/边三轮/右侧细节/13.JPG %}
+{% galleryGroup '自定义名称' '左侧细节' '/img/边三轮/左侧细节/' /img/边三轮/左侧细节/1.JPG %}
+{% galleryGroup '自定义名称' '轮胎细节' '/img/边三轮/轮胎细节/' /img/边三轮/轮胎细节/10.JPG %}
+</div>
